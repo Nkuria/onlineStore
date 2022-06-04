@@ -18,3 +18,17 @@ C:\Users\Nick\Desktop\C# projects\onlineStore\store\obj\Debug\netcoreapp3.1\stor
 C:\Users\Nick\Desktop\C# projects\onlineStore\store\obj\Debug\netcoreapp3.1\store.dll
 C:\Users\Nick\Desktop\C# projects\onlineStore\store\obj\Debug\netcoreapp3.1\store.pdb
 C:\Users\Nick\Desktop\C# projects\onlineStore\store\obj\Debug\netcoreapp3.1\store.genruntimeconfig.cache
+C:\Users\Nick\Desktop\C# projects\onlineStore\store\bin\Debug\netcoreapp3.1\store.Views.dll
+C:\Users\Nick\Desktop\C# projects\onlineStore\store\bin\Debug\netcoreapp3.1\store.Views.pdb
+C:\Users\Nick\Desktop\C# projects\onlineStore\store\obj\Debug\netcoreapp3.1\store.RazorAssemblyInfo.cache
+C:\Users\Nick\Desktop\C# projects\onlineStore\store\obj\Debug\netcoreapp3.1\store.RazorAssemblyInfo.cs
+C:\Users\Nick\Desktop\C# projects\onlineStore\store\obj\Debug\netcoreapp3.1\store.TagHelpers.input.cache
+C:\Users\Nick\Desktop\C# projects\onlineStore\store\obj\Debug\netcoreapp3.1\store.TagHelpers.output.cache
+C:\Users\Nick\Desktop\C# projects\onlineStore\store\obj\Debug\netcoreapp3.1\store.RazorCoreGenerate.cache
+C:\Users\Nick\Desktop\C# projects\onlineStore\store\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Nick\Desktop\C# projects\onlineStore\store\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Nick\Desktop\C# projects\onlineStore\store\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Nick\Desktop\C# projects\onlineStore\store\obj\Debug\netcoreapp3.1\store.RazorTargetAssemblyInfo.cs
+C:\Users\Nick\Desktop\C# projects\onlineStore\store\obj\Debug\netcoreapp3.1\store.Views.pdb
+C:\Users\Nick\Desktop\C# projects\onlineStore\store\obj\Debug\netcoreapp3.1\store.csproj.CopyComplete
+C:\Users\Nick\Desktop\C# projects\onlineStore\store\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
