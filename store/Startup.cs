@@ -28,9 +28,10 @@ namespace store
             services.AddDbContext<StoreDbContext>(opts =>
             {
                 opts.UseSqlServer(
-                    Configuration["ConnectionStrings: storeConnection"]
+                    Configuration["ConnectionStrings:storeConnection"]
                     );
             });
+            services.AddScoped<IStoreRepository, EFStoreRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

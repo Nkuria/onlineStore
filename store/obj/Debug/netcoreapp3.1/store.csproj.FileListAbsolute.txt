@@ -7,8 +7,6 @@ C:\Users\Nick\Desktop\C# projects\onlineStore\store\bin\Debug\netcoreapp3.1\stor
 C:\Users\Nick\Desktop\C# projects\onlineStore\store\bin\Debug\netcoreapp3.1\store.runtimeconfig.dev.json
 C:\Users\Nick\Desktop\C# projects\onlineStore\store\bin\Debug\netcoreapp3.1\store.dll
 C:\Users\Nick\Desktop\C# projects\onlineStore\store\bin\Debug\netcoreapp3.1\store.pdb
-C:\Users\Nick\Desktop\C# projects\onlineStore\store\obj\Debug\netcoreapp3.1\store.csproj.AssemblyReference.cache
-C:\Users\Nick\Desktop\C# projects\onlineStore\store\obj\Debug\netcoreapp3.1\store.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Nick\Desktop\C# projects\onlineStore\store\obj\Debug\netcoreapp3.1\store.AssemblyInfoInputs.cache
 C:\Users\Nick\Desktop\C# projects\onlineStore\store\obj\Debug\netcoreapp3.1\store.AssemblyInfo.cs
 C:\Users\Nick\Desktop\C# projects\onlineStore\store\obj\Debug\netcoreapp3.1\store.csproj.CoreCompileInputs.cache
@@ -63,3 +61,6 @@ C:\Users\Nick\Desktop\C# projects\onlineStore\store\bin\Debug\netcoreapp3.1\runt
 C:\Users\Nick\Desktop\C# projects\onlineStore\store\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Nick\Desktop\C# projects\onlineStore\store\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Nick\Desktop\C# projects\onlineStore\store\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nick\Desktop\C# projects\onlineStore\store\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Nick\Desktop\C# projects\onlineStore\store\obj\Debug\netcoreapp3.1\store.csprojAssemblyReference.cache
+C:\Users\Nick\Desktop\C# projects\onlineStore\store\obj\Debug\netcoreapp3.1\staticwebassets\store.StaticWebAssets.xml
