@@ -54,6 +54,7 @@ namespace store
                     await context.Response.WriteAsync("Hello World!");
                 });
             });
-        }
+            SeedData.EnsurePopulated(app);
+         }
     }
 }

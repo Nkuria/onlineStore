@@ -14,7 +14,7 @@ namespace store.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Name = table.Column<string>(nullable: true),
                     Description = table.Column<string>(nullable: true),
-                    Price = table.Column<decimal>(type: "decimal(8,2", nullable: false),
+                    Price = table.Column<decimal>(type: "decimal(8,2)", nullable: false),
                     Category = table.Column<string>(nullable: true)
                 },
                 constraints: table =>
