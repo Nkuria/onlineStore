@@ -49,10 +49,8 @@ namespace store
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapDefaultControllerRoute();
-                endpoints.MapGet("/", async context =>
-                {
-                    await context.Response.WriteAsync("Hello World!");
-                });
+               
+             
             });
             SeedData.EnsurePopulated(app);
          }
