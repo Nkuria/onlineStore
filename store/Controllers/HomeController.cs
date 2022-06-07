@@ -16,7 +16,6 @@ namespace store.Controllers
 
 
         public IActionResult index(int productPage = 1)
-         
            => View(repository.Products.OrderBy(p => p.ProductID)
                 .Skip((productPage - 1) * pageSize)
                 .Take(pageSize)); 
