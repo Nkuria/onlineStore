@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using store.Models;
 using System.Linq;
+using store.Models.ViewModels;
 namespace store.Controllers
 
 {
@@ -14,11 +15,24 @@ namespace store.Controllers
             repository = repo;
         }
 
-
-        public IActionResult index(int productPage = 1)
-           => View(repository.Products.OrderBy(p => p.ProductID)
+        public ViewResult Index(int productPage = 1)
+            => View(new ProductsListViewModel
+            {
+                Products = repository.Products
+                .OrderBy(p => p.ProductID)
                 .Skip((productPage - 1) * pageSize)
-                .Take(pageSize)); 
-        
+                .Take(pageSize),
+                PagingInfo = new PagingInfo
+                {
+                    CurrentPage = productPage,
+                    ItemsPerPage = pageSize,
+                    TotalItems = repository.Products.Count()
+                }
+            });
+
+
+
+
     }
 }
+
